@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Figma, etc**
 
-- 👯 I’m currently collaborating with **SFU OS Development Club**
+- 👯 I’m currently collaborating with [**SFU OS Development Club**](https://github.com/sfuosdev)
 
 - 👨‍💻 All of my projects are available at [https://tommyoh0428.github.io/portfolio-page/](https://tommyoh0428.github.io/portfolio-page/)
 
