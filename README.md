@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tommyoh0428&label=Profile%20views&color=0e75b6&style=flat" alt="tommyoh0428" /> </p>
 
-- 🔭 I’m currently working on [SWE Resume Evaluator](https://github.com/sfuosdev/swe-resume-evaluator)
+- 🔭 I’m currently working on Multiagent discord bot using AWS Lambda
 
-- 🌱 I’m currently learning **Java, Figma, etc**
+- 🌱 I’m currently learning **Amazon Web Services (AWS)**
 
 - 👯 I’m currently collaborating with [**SFU OS Development Club**](https://github.com/sfuosdev)
 
