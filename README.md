@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tommyoh0428&label=Profile%20views&color=0e75b6&style=flat" alt="tommyoh0428" /> </p>
 
-- 🔭 I’m currently working on Multiagent discord bot using AWS Lambda
+- 🔭 I’m currently working on [Multi-agents discord bot](https://github.com/TommyOh0428/multiagent-bot) using AWS.
 
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
 
-- 👯 I’m currently collaborating with [**SFU OS Development Club**](https://github.com/sfuosdev)
+- 👯 I’m currently leading and collaborating with [**SFU OS Development Club**](https://github.com/sfuosdev)
 
-- 👨‍💻 All of my projects are available at [https://tommyoh0428.github.io/portfolio-page/](https://tommyoh0428.github.io/portfolio-page/)
+- 👨‍💻 All of my projects are available at [my portfolio page](https://portfolio-tommy-oh.vercel.app/)
 
 - 📫 How to reach me **tommy32666@gmail.com**
 
