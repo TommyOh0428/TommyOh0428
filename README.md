@@ -37,15 +37,5 @@ int main() {
 ```
 
 
-- 🔭 I’m currently working on [Multi-agents discord bot](https://github.com/TommyOh0428/multiagent-bot) using AWS.
-
-- 🌱 I’m currently learning **Amazon Web Services (AWS)**
-
-- 👯 I’m currently leading and collaborating with [**SFU OS Development Club**](https://github.com/sfuosdev)
-
-- 👨‍💻 All of my projects are available at [my portfolio page](https://portfolio-tommy-oh.vercel.app/)
-
-- 📫 Reach me through using: **tommy32666@gmail.com**
-
 
 
