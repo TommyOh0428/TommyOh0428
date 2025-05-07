@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tommy (Kanggeon) Oh</h1>
 <h3 align="center">A Hard-working student who studies Computer Science at Simon Fraser University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tommyoh0428&label=Profile%20views&color=0e75b6&style=flat" alt="tommyoh0428" /> </p>
+<p align="left"> <img src="https://github.com/user-attachments/assets/91a49a1a-d8f0-4276-8f5a-44de7e7154ab" alt="tommyoh0428" /> </p>
 
 - 🔭 I’m currently working on [Multi-agents discord bot](https://github.com/TommyOh0428/multiagent-bot) using AWS.
 
@@ -18,3 +18,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tommy-kanggeon-oh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommy (kanggeon) oh" height="30" width="40" /></a>
 </p>
+
+
+![animate profile](https://github.com/user-attachments/assets/91a49a1a-d8f0-4276-8f5a-44de7e7154ab)
