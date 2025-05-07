@@ -1,8 +1,41 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
-<h1 align="center">Hi 👋, I'm Tommy (Kanggeon) Oh</h1>
-<h3 align="center">A Hard-working student who studies Computer Science at Simon Fraser University</h3>
 
-<p align="left"> <img src="https://github.com/user-attachments/assets/83678fcc-9c73-4c59-8038-ac7ff6da8974" alt="tommyoh0428" /> </p>
+<h2 style="margin-top: 30px;">Tommy (Kanggeon) Oh</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83678fcc-9c73-4c59-8038-ac7ff6da8974" alt="tommyoh0428" width="250" align="left" style="margin-right: 10px;" />
+
+</p>
+
+
+```cpp
+#include <iostream>
+#include <map>
+#include <string>
+
+using namespace std;
+
+map<string, string> get_bio() {
+    return {
+        {"- ⚡ Quick bio:", "3rd year Software Systems at Simon Fraser University"},
+        {"- 👯 I’m currently leading and collaborating with", "SFU Open Source Development Club"},
+        {"- 🔭 I’m currently working on", "Multiagent Discord Bot"},
+        {"- 🌱 I’m currently learning", "Amazon Web Services, Docker, SQL, Raspberry Pi"},
+        {"- 👨‍💻 All of my projects are available at", "https://portfolio-tommy-oh.vercel.app/"},
+        {"- 📫 Reach me through", "tommy32666@gmail.com"}
+    };
+}
+
+int main() {
+    map<string, string> bio = get_bio();
+    for (const auto& [key, value] : bio) {
+        cout << key << " " << value << endl;
+    }
+    return 0;
+}
+
+```
+
 
 - 🔭 I’m currently working on [Multi-agents discord bot](https://github.com/TommyOh0428/multiagent-bot) using AWS.
 
@@ -14,9 +47,5 @@
 
 - 📫 Reach me through using: **tommy32666@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tommy-kanggeon-oh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommy (kanggeon) oh" height="30" width="40" /></a>
-</p>
 
 
