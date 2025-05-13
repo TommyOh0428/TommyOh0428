@@ -35,8 +35,10 @@ int main() {
 }
 
 ```
-![](https://raw.githubusercontent.com/TommyOh0428/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/TommyOh0428/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=TommyOh0428&hide_rank=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TommyOh0428>
+  
 
 
 
