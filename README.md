@@ -21,7 +21,7 @@ map<string, string> get_bio() {
         {"- 👯 I’m currently leading and collaborating with", "SFU Open Source Development Club"},
         {"- 🔭 I’m currently working on", "Multiagent Discord Bot"},
         {"- 🌱 I’m currently learning", "Amazon Web Services, Docker, SQL, Raspberry Pi"},
-        {"- 👨‍💻 All of my projects are available at", "https://portfolio-tommy-oh.vercel.app/"},
+        {"- 👨‍💻 All of my projects are available at", "https://tommyoh0428.github.io/"},
         {"- 📫 Reach me through", "tommy32666@gmail.com"}
     };
 }
