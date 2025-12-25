@@ -17,7 +17,7 @@ using namespace std;
 
 map<string, string> get_bio() {
     return {
-        {"- ⚡ Quick bio:", "3rd year Software Systems at Simon Fraser University"},
+        {"- ⚡ Quick bio:", "4th year Software Systems at Simon Fraser University"},
         {"- 👯 I’m currently leading and collaborating with", "SFU Open Source Development Club"},
         {"- 🔭 I’m currently working on", "Multiagent Discord Bot"},
         {"- 🌱 I’m currently learning", "Amazon Web Services, Docker, SQL, Raspberry Pi"},
